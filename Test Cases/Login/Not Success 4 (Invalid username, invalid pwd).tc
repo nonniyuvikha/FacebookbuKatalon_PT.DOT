@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Not Success 4 (Invalid username, invalid pwd)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>219f45c5-7be3-4991-a0e7-ea76fc5f749d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login success (valid username and pwd)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5af472a6-f2dd-417c-b3d3-893c09ee673e</testCaseGuid>
+</TestCaseEntity>
